@@ -1,8 +1,8 @@
-describe('AAAAAAAAAAA', () => {
+describe('On Linkedin', () => {
 
 
 
-it('BBB', () => {
+it('I log in', () => {
 
     cy.visit ( 'https://linkedin.com');
 
